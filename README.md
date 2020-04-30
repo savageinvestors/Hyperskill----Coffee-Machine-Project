@@ -1,2 +1,2 @@
 # Hyperskill----Coffee-Machine-Project
-Final Project for the Coffee Machine Module as part of the Python Developer Path
+All Stages of the Coffee Machine Module as part of the Python Developer Path
